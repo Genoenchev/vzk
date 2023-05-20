@@ -1,0 +1,2 @@
+# vzk
+VZK esports repo
